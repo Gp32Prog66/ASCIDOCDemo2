@@ -4,7 +4,15 @@ image::images\Lil-libraryV3\Add_Books_Fail_2.png[alt=logout,width=500px] [orient
 
 ## Working on this
 
+image::ImageTest1.PNG[alt=imagetest,width=500px] [orientation=portrait]
+image::ImageTest2.PNG[alt=imagetest,width=500px] [orientation=portrait]
+image::ImageTest3.PNG[alt=imagetest,width=500px] [orientation=portrait]
 
 
+image::images\ImageTest1.PNG[alt=imagetest,width=500px] [orientation=portrait]
+image::images\ImageTest2.PNG[alt=imagetest,width=500px] [orientation=portrait]
+image::images\ImageTest3.PNG[alt=imagetest,width=500px] [orientation=portrait]
 
-
+image::images\ImageFolderTest\ImageTest1.PNG[alt=imagetest,width=500px] [orientation=portrait]
+image::images\ImageFolderTest\ImageTest2.PNG[alt=imagetest,width=500px] [orientation=portrait]
+image::images\ImageFolderTest\ImageTest3.PNG[alt=imagetest,width=500px] [orientation=portrait]
