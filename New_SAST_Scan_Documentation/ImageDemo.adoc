@@ -14,7 +14,7 @@ image::images\ImageTest2.PNG[alt=imagetest,width=500px] [orientation=portrait]
 image::images\ImageTest3.PNG[alt=imagetest,width=500px] [orientation=portrait]
 
 image::images\ImageFolderTest\ImageTest1.PNG[alt=imagetest,width=500px] [orientation=portrait]
-image::images\ImageFolderTest\ImageTest2PNG[alt=imagetest,width=500px] [orientation=portrait]
+image::images\ImageFolderTest\ImageTest2.PNG[alt=imagetest,width=500px] [orientation=portrait]
 image::images\ImageFolderTest\ImageTest3.PNG[alt=imagetest,width=500px] [orientation=portrait]
 
 
