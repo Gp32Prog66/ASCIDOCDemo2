@@ -20,7 +20,7 @@ image::images\ImageFolderTest\ImageTest3.PNG[alt=imagetest,width=500px] [orienta
 # Image 
 image::images\ImageFolderTest\Add_Books_Fail.PNG[alt=Add_Books_Fail,width=500px] [orientation=portrait]
 image::images\ImageFolderTest\Add_Books_Fail_2.PNG[alt=Add_Books_Fail_2,width=500px] [orientation=portrait]
-image::images\ImageFolderTest\Add_Books_Fail_Success.PNG[alt=Add_Books_Success,width=500px] [orientation=portrait]
+image::images\ImageFolderTest\Add_Books_Success.PNG[alt=Add_Books_Success,width=500px] [orientation=portrait]
 image::images\ImageFolderTest\Browse_Books_Fail.PNG[alt=Browse_Books_Fail,width=500px] [orientation=portrait]
 image::images\ImageFolderTest\Browse_Books_Fail_2.PNG[alt=Browse_Books_Fail_2,width=500px] [orientation=portrait]
 image::images\ImageFolderTest\Browse_Books_Fail_3.PNG[alt=Browse_Books_Fail,width=500px] [orientation=portrait]
